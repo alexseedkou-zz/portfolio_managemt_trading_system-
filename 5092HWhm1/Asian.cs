@@ -72,6 +72,5 @@ namespace _5092HWhm1
              return Asian_price=c * Math.Exp(-opt.InterestRate * opt.Tenor);
         }  //Get the price of Asian option.
 
-       
     }
 }
