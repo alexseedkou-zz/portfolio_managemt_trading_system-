@@ -36,8 +36,8 @@ namespace _5092HWhm1
             int steps = optionInfo.NumberOfSteps;
             bool P = optionInfo.Pnt;
             double barrier=optionInfo.Brpx;
-            SS1[0] = S;
-            SS2[0] = S;
+            //SS1[0] = S;
+            //SS2[0] = S;
             double dt = t / steps;
             totalSS1 = 0.0;
             totalSS2 = 0.0;
